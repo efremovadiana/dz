@@ -34,4 +34,6 @@
 .paragraph-3 {
     font-size: 32pt;
     color: darkslateblue;
+    text-align: center;
+    font-style: italic;
 }
