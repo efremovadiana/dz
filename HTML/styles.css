@@ -32,10 +32,10 @@
 }
 
 .paragraph-3 {
-    font-size: 32pt;
+    font-size: 24pt;
     color: darkslateblue;
     text-align: center;
     font-style: italic;
-    border-color: green;
+    /*border-color: green;*/
     text-shadow: green 2px 3px 10px ;
 }
